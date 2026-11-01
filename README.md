@@ -1,8 +1,8 @@
 # Elements of Programming Interviews (EPI) Solutions
 
-Personal practice repository containing solutions to problems from **_Elements of Programming Interviews_** by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash.
+Repository containing solutions to problems from **_Elements of Programming Interviews_** by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash.
 
-All solutions are written, implemented, and maintained by **Sudarshan Dhage**.
+Solutions written and maintained by **Sudarshan Dhage**.
 
 ---
 
@@ -13,6 +13,6 @@ All solutions are written, implemented, and maintained by **Sudarshan Dhage**.
 
 ---
 
-## 👤 Author
+## 👤 Maintainer
 **Sudarshan Dhage**  
 GitHub: [@SudarshanDhage](https://github.com/SudarshanDhage)
